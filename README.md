@@ -12,7 +12,7 @@ API - Telegram API и OpenWeather API
 
 Библиотеки - Lombok, OkHttp3
 
-## Скриншоты работы ##
+## Скриншоты ##
 
 ![zKrGT96g5r4TfKD_2VWV1md3PiCwD47W3MctJkpp5JWcC6y0tIUdcILt5ELgQibrCVEUfPo5dL7_usXfQPWhLdnI](https://user-images.githubusercontent.com/71220872/197287890-f2cdf3a2-f4f6-41cb-9d75-47449e6f8d93.jpg)
 ![U1TJti-dFxHHTl6H2e0F6eqLDRN0-bh-w86i151jXBTgk8FTRVqYrm7zrW1c88LhSjxpDeN-Pld_KhnPBB3QlOrP](https://user-images.githubusercontent.com/71220872/197287901-1970e58a-353e-4949-9373-0d92970d8e29.jpg)
